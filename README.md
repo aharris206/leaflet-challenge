@@ -12,7 +12,7 @@
 ### Convergent Boundries [are where two techtonic plates are moving into one another](https://en.wikipedia.org/wiki/Convergent_boundary) 
 ##### Oceanic - Contenental Convergent Boundaries • `Nasca Plate` & `South American Plate`
 - Oceanic Crust is denser than Contenental Crust, which causes it to sink under the Contenental Crust. We see this at the subduction zone off the west coast of South America where there are ***deeper*** earthquakes as the `Nasca Plate` subducts ***under*** the `South American Plate`. On our 2-dimensional map, this appears as deeper earthquakes as you travel inland!
-[Nasca Plate & South American Plate](/Images/(Oceanic-Contenental-Convergent).PNG)
+[Nasca Plate & South American Plate](/Images/Oceanic-Contenental-Convergent.PNG)
 ##### Oceanic - Oceanic Convergent Boundaries • `Australian Plate` & `Pacific Plate`
 - Oceanic plates differ in density depending on age, which means the older of the two converging plates sinks under the younger one. We see an example of two ocean plates converging just north on New Zelend where it appears the Pacific Plate is subducting under the Australian Plate, as the earthquakes in that region have deeper earthquakes West of the others.
 [Australian Plate & Pacific Plate](/Images/(Oceanic-Oceanic-Convergent).PNG)
