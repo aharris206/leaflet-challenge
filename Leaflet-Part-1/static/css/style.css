@@ -10,15 +10,17 @@ html {
 }
 
 .legend {
+  margin: 12px;
+  border-radius: 5px;
   padding: 10px;
   font-size: 12px;
   font-weight: bold;
   line-height: 18px;
   color: #111;
-  background-color: white;
-  margin: 12px;
-  border-radius: 5px;
+  background-color: #EEE;
+  
 }
+
 .legend div {
   width: 72px;
   height: 24px;

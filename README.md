@@ -1,5 +1,7 @@
-# leaflet-challenge  • `2023-04-06T14:08−07:00 (PDT)`
+# leaflet-challenge  • `2023-04-06T14:28−07:00 (PDT)`
 ## Module_15
+- Note: The entire HTML portion comes from our starter code for this assignment. ***I commented out*** the API key segment as I did not need to use an API key for this assignment.
+- I also opted to pull a full month of data, as it paints a clearer picture of the types of earthquakes at verious techtonic boundries. This is explained more in depth below!
 
 ## Thoughts and Analysis
 - I really enjoyed this assignment! This data source is actually one I have looked at a number of times in the past!
